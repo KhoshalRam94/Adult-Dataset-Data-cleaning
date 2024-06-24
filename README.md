@@ -1,2 +1,3 @@
-# Adult-Dataset-EDA
-An Exploratory Data Analysis of Adult Dataset
+# Adult-Dataset-Data Cleaning
+Data Cleaning using Pandas
+The code contains basic coding to clean the dataset from Kaggle.
